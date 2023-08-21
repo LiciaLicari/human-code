@@ -16,10 +16,10 @@ sposto la sedia
                 
                 tieni
                 
-                - SE carta nuova aggiungi a "Album principale" 
+                - SE carta nuova aggiungi a "album principale" 
 
                 - ALTRIMENTI // carta = doppiona 
-                    aggiungi ALBUM scambi
+                    aggiungi album scambi
 
                     - SE carta in album scambi >= 2
                         scambia con amico 
@@ -40,12 +40,12 @@ sposto la sedia
         
         - ALTRIMENTI figurina = integra tieni
             - dividi per categoria [comune, noncomune, raro, epico, legy] 
-                - SE carta nuova aggiungi a ALBUM principale 
+                - SE carta nuova aggiungi a album principale 
 
-                - ALTRIMENTI carta = doppiona aggiungi ALBUM scambi
+                - ALTRIMENTI carta = doppiona aggiungi album scambi
                 SE carta in album 2 = >= 2 scambia con amico 
                 ALTRIMENTI tieni 
-                
+
 - riciclo busta         
 # end loop
 # start loop
