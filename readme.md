@@ -45,6 +45,7 @@ sposto la sedia
                 - ALTRIMENTI carta = doppiona aggiungi ALBUM scambi
                 SE carta in album 2 = >= 2 scambia con amico 
                 ALTRIMENTI tieni 
+                
 - riciclo busta         
 # end loop
 # start loop
